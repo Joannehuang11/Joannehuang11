@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 👓 I’m a UX engineer in XR.
 - 🌱 Currently honing my skills in React.js, C# in Unity, and C++ in Unreal Engine.
+- 👀 I'm looking for 2023 summer internship.
 - 🕸️ Here is my website: www.joannehuangdesign.com
 - 📫 Always open to chat, feel free to reach me at chunghan.huang.joanng@gmail.com
 
