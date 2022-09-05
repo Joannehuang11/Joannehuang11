@@ -2,7 +2,7 @@
 - 👓 I’m a UX engineer in XR.
 - 🌱 Currently honing my skills in React.js, C# in Unity, and C++ in Unreal Engine.
 - 🕸️ Here is my website: www.joannehuangdesign.com
-- 📫 Always open to chat, feel free to reach me at chunghan.huang.joanng@gmail.com
+- 📫 Always open to chat, reach me at chunghan.huang.joanng@gmail.com
 
 <!--
 **Joannehuang11/Joannehuang11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
